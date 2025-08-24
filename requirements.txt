@@ -1,0 +1,12 @@
+# Core GUI & image
+Pillow>=9.2.0
+tkinterdnd2>=0.3.0
+
+# Segmentation / ML
+torch>=2.1.0
+torchvision>=0.16.0
+transformers>=4.41.0
+
+# Array & morphology
+numpy>=1.23
+scipy>=1.9

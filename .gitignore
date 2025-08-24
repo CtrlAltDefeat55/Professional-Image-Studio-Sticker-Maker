@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+.DS_Store
+
+# IDE / editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Local app data
+image_studio_v3_data/
+image_studio_v3_data/**
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Logs
+*.log
+
+# Media (keep next to code without committing)
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.svg
+*.ico
+*.icns
+# Raw/photos
+*.nef
+*.cr2
+*.cr3
+*.arw
+*.rw2
+*.orf
+*.raf
+*.dng
+# Video
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.webm
+*.wmv
+*.flv
+*.mpeg
+*.mpg
+*.3gp
+*.mts
+*.m2ts
+# Audio (often packaged with videos)
+*.mp3
+*.wav
+*.flac
+*.aac
+*.m4a
+*.ogg
+*.opus
