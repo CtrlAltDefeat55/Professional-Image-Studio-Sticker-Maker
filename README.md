@@ -12,7 +12,7 @@ This app loads **BiRefNet** via 🤗 Transformers for robust subject masks and g
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshot](#screenshot)
+- [User Interface](#user-interface)
 - [Installation](#installation)
 - [Usage](#usage)
   - [Load images](#load-images)
@@ -42,15 +42,10 @@ This app loads **BiRefNet** via 🤗 Transformers for robust subject masks and g
 
 > Settings & session data are stored under `image_studio_v3_data/` next to the script.
 
-## Screenshot
+## User Interface
 
-_Add a screenshot here (e.g., `docs/screenshot.png`)._
+<img width="1995" height="1241" alt="UI_Showing_V3_2" src="https://github.com/user-attachments/assets/d4f3c951-ca96-4f56-ade8-aecc82d5b61f" />
 
-```md
-![Sticker Maker UI](docs/screenshot.png)
-```
-
-> Screenshots and sample media are **ignored by Git** by default so you can keep them next to the code without committing them. See `.gitignore`.
 
 ## Installation
 
@@ -61,7 +56,7 @@ git clone https://github.com/<you>/image-background-sticker-maker.git
 cd image-background-sticker-maker
 python -m venv venv
 # Windows
-.env\Scriptsctivate
+.\venv\Scripts\activate
 # macOS/Linux
 # source venv/bin/activate
 
